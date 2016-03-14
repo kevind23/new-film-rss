@@ -1,3 +1,9 @@
+# Cache file
+cached.dat
+
+# Generated RSS output
+generated.rss
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
